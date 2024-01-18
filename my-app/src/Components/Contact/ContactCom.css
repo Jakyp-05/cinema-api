@@ -1,0 +1,9 @@
+.contact {
+  width: 1200px;
+  min-height: 400px;
+  border: 1px solid black;
+  border-radius: 8px;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

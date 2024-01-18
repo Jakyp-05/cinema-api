@@ -1,0 +1,9 @@
+.about {
+  width: 1200px;
+  min-height: 400px;
+  margin: 0 auto;
+  border-radius: 8px;
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
